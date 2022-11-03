@@ -25,6 +25,7 @@ class _MyHomePageState extends State<MyHomePage> {
     "Ios",
     "Python",
     "React JS",
+    'Dart',
   ];
 
   @override
